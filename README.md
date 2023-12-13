@@ -3,7 +3,7 @@ This project presents a functional signup and login form built with the power of
 1) Download and Install XAMPP: Head over to the XAMPP website and download the appropriate version for your operating system. Follow the installation instructions and launch the program.
 2) Access the Project: Locate the downloaded source code and extract the files from the ZIP folder. Inside, you'll find PHP files, a CSS file, and a database named "user_details."
 3) Set Up the Database: In phpMyAdmin, create a new database named "org." Extract the table rows from the "user_details" folder and import them into your newly created database.
-4) Fire Up the Form!: Open your browser and navigate to localhost:88/crudopearation/signup.php. You'll be greeted with the signup form, ready to take you on a user creation journey.
+4) Fire Up the Form!: Open your browser and navigate to localhost:88/Signup-Login-Form-main/signup.php. You'll be greeted with the signup form, ready to take you on a user creation journey.
 
 What Can You Do?
 
